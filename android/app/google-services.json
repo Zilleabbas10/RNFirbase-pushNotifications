@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "220743595393",
+    "firebase_url": "https://twic-reactnative.firebaseio.com",
+    "project_id": "twic-reactnative",
+    "storage_bucket": "twic-reactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220743595393:android:afb483b7729939cd6d6480",
+        "android_client_info": {
+          "package_name": "com.twic.reactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220743595393-oshl9gguvnclfvk8l9qgpmt38r9ik48a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXp7xXDU4CmmbyGC2yf7P3edlX5GtEdkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220743595393-oshl9gguvnclfvk8l9qgpmt38r9ik48a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220743595393-371g3mb8kdeaqc9gjjg78etnjkjp3q6c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.twic.reactnative"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
